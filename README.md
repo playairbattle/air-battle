@@ -1,5 +1,7 @@
 <div align="center">
 
+🌐 **English** &nbsp; · &nbsp; [Español](README.es.md)
+
 <img src="https://air-battle.com/assets/air-battle.svg" alt="Air Battle emblem" width="80" height="80">
 
 # AIR BATTLE
